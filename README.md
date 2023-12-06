@@ -1,3 +1,6 @@
+# Goals
+For research project, needs to modify backpropagation code
+
 # Keras 3: A new multi-backend Keras
 
 Keras 3 is a new multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
